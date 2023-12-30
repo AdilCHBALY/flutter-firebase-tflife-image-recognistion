@@ -28,9 +28,9 @@ L'objectif de cette fonctionnalité est de permettre aux utilisateurs de se conn
 
 
 ### Captures d'écran
-![Interface de login](images/1.png)
+![Interface de login](images/images.25.32.jpeg)
 .
-![Interface de login cas erreur](images/2.png)
+![Interface de login cas erreur](images/images.26.48.jpeg)
 
 ## 3.2. US#2 : [MVP] Liste des activités
 
@@ -47,7 +47,7 @@ En tant qu'utilisateur connecté, je souhaite visualiser la liste des activités
 
 
 ### Capture d'écran
-![Liste des activités](images/3.png)
+![Liste des activités](images/images.36.09.jpeg)
 
 ## 3.3. US#3 : [MVP] Détail d'une activité
 
@@ -59,7 +59,7 @@ En tant qu'utilisateur connecté, je souhaite consulter les détails d'une activ
 
 
 ### Capture d'écran
-![Détail d'une activité](images/3.1.png)
+![Détail d'une activité](images/images.48.11.jpeg)
 
 ## 3.4. US#4 : [MVP] Filtrer sur la liste des activités
 
@@ -73,7 +73,7 @@ En tant qu'utilisateur connecté, je souhaite avoir la possibilité de filtrer l
 
 
 ### Capture d'écran
-![Filtrer la liste des activités](images/4.png)
+![Filtrer la liste des activités](images/images.55.28.jpeg)
 
 ## 3.5. US#5 : [MVP] Profil utilisateur
 
@@ -91,11 +91,6 @@ En tant qu'utilisateur connecté, je souhaite accéder aux informations de mon p
    - La ville
 3. Un bouton "Valider" permet de sauvegarder les données en base de données.
 4. Un bouton "Se déconnecter" permet de retourner à la page de connexion.
-
-
-
-### Capture d'écran
-![Ajouter une nouvelle activité](images/vue d ensemble.png)
 
 ## 3.6. US#6 : [IA] Ajouter une nouvelle activité
 
@@ -115,5 +110,5 @@ En tant qu'utilisateur connecté, je souhaite pouvoir ajouter une nouvelle activ
 
 
 ### Capture d'écran
-![Ajouter une nouvelle activité](images/vue d ensemble.png)
+![Ajouter une nouvelle activité](images/images.31.19.jpeg)
 
