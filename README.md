@@ -10,8 +10,8 @@ Dans le cadre de ce projet, j'ai développé une application mobile en employant
 2. [3.2. US#2 : [MVP] Liste des activités](#32-us2--mvp-liste-des-activités)
 3. [3.3. US#3 : [MVP] Détail d'une activité](#33-us3--mvp-détail-dune-activité)
 4. [3.4. US#4 : [MVP] Filtrer sur la liste des activités](#34-us4--mvp-filtrer-sur-la-liste-des-activités)
-5. [3.5 US#5 : [MVP] Profil utilisateur] (#36-us5--mvp-profil-utilisateur)
-6. [3.5. US#6 : [IA] Ajouter une nouvelle activité](#36-us6--ia-ajouter-une-nouvelle-activité)
+5. [3.5. US#5 : [MVP] Profil utilisateur] (#36-us5--mvp-profil-utilisateur)
+6. [3.6. US#6 : [IA] Ajouter une nouvelle activité](#36-us6--ia-ajouter-une-nouvelle-activité)
 
 ## 3.1. US#1 : [MVP] Interface de login
 
@@ -75,7 +75,7 @@ En tant qu'utilisateur connecté, je souhaite avoir la possibilité de filtrer l
 ### Capture d'écran
 ![Filtrer la liste des activités](images/4.png)
 
-## 3.6. US#5 : [MVP] Profil utilisateur
+## 3.5. US#5 : [MVP] Profil utilisateur
 
 ### Objectif
 En tant qu'utilisateur connecté, je souhaite accéder aux informations de mon profil afin de les vérifier et de les modifier si nécessaire.
