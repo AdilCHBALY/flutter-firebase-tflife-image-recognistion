@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9519663292",
+    "project_id": "fluttermobileia",
+    "storage_bucket": "fluttermobileia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9519663292:android:dcc1effa1202191fa268b9",
+        "android_client_info": {
+          "package_name": "com.example.recognizeme_ia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CzCcTZGD_FaiUhbMMfmGwQa6y-04dPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
